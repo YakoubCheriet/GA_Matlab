@@ -1,2 +1,2 @@
 # GA_Matlab
-Basic Genetic Algorithm with graphic interface
+SOLVING KNAPSACK WITH GENETIC ALGORITHM, with graphic interface
